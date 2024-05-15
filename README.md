@@ -7,7 +7,7 @@
 Read the [Notes and FAQ](#notes-and-faq)
 
 ## Example Usage
-random
+oktest
 ```rust
 use worker::*;
 
